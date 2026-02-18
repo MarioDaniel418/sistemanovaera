@@ -1,2 +1,0 @@
-# sistemanovaera
-EDUCAÇÃO QUE TRANFORMA O PRESENTE.
