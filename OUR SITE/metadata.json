@@ -1,0 +1,9 @@
+
+{
+  "name": "Nova Era - Sistema Unificado de Gestão Escolar",
+  "description": "Uma plataforma ERP/LMS completa para a Escola Técnica Zaire Industrial, integrando gestão administrativa, financeira e pedagógica com foco em aprendizagem híbrida e PBL.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
